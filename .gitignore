@@ -2,3 +2,4 @@ venv/
 __pycache__/
 *.pyc
 Task 3 and 4_Loan_Data.csv
+*.pdf
